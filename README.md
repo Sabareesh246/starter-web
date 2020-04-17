@@ -7,3 +7,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Rebase concpet adding in GIT Advanc part
+
+
+We ahve done some work to gether.
