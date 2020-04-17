@@ -3,7 +3,9 @@
 
 # TEAM  i am modifiying hte file before rebase
 
-    <name> -- <role> -- <twitter>
+    <name>SSE<twitter>
+
+    SSGA IT FIRM
 
 # THANKS
 
