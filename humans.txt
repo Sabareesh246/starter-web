@@ -2,8 +2,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
+ HI going to nsert the conflicts in my feature bracnh
+    <name> Senior Associate SSGA <twitter>
 
 # THANKS
 
