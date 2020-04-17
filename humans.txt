@@ -1,7 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# TEAM  i am modifiying hte file before rebase
 
     <name> -- <role> -- <twitter>
 
@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+Java Script, Angular5 and Devops technology, AWS
+
