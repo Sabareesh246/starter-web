@@ -10,3 +10,5 @@ Rebase concpet adding in GIT Advanc part
 
 
 We ahve done some work to gether.
+
+Adding the New example for stash
