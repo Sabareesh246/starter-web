@@ -5,8 +5,12 @@ THis file is used to elarn stash
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 git stash is used to save your uncommit cahnges so that u can work on something
 else and revert then from your working directory.
+=======
+git stash is used to save your uncommit cahnges so that u can work on something else and revert then from your working directory.
+>>>>>>> Stashed changes
 =======
 git stash is used to save your uncommit cahnges so that u can work on something else and revert then from your working directory.
 >>>>>>> Stashed changes
@@ -20,7 +24,10 @@ git stash list
 git stash drop
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
