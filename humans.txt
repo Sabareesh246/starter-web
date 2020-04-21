@@ -1,11 +1,17 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+<<<<<<< HEAD
 # TEAM  i am modifiying hte file before rebase
 
     <name>SSE<twitter>
 
     SSGA IT FIRM
+=======
+# TEAM
+ HI going to nsert the conflicts in my feature bracnh
+    <name> Senior Associate SSGA <twitter>
+>>>>>>> mybranch
 
 # THANKS
 
