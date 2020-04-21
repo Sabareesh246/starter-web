@@ -3,11 +3,18 @@ GIT STASH example and access to authorised users only.
 THis file is used to elarn stash
 
 
+<<<<<<< Updated upstream
 git stash is used to save your uncommit cahnges so that u can work on something
 else and revert then from your working directory.
+=======
+git stash is used to save your uncommit cahnges so that u can work on something else and revert then from your working directory.
+>>>>>>> Stashed changes
 
 git stash
 git stash apply
 git stash list
 git stash drop
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
